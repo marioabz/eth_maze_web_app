@@ -139,7 +139,6 @@ function Canvas() {
                 <Ground />
                 <Land position={_pos} items={items}/>
             </div>
-            <ModalLanding />
             <ItemsContainer 
                 args={
                     {
